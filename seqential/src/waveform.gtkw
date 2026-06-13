@@ -1,0 +1,48 @@
+[*]
+[*] GTKWave Analyzer v3.3.119 (w)1999-2024 BSI
+[*] Mon Mar  3 19:59:26 2025
+[*]
+[dumpfile] "/home/aryanshrivastava/Documents/seq/ipa-s25-project-team-9/seqential/src/gtk.vcd"
+[dumpfile_mtime] "Mon Mar  3 19:57:14 2025"
+[dumpfile_size] 279389
+[savefile] "/home/aryanshrivastava/Documents/seq/ipa-s25-project-team-9/seqential/src/waveform.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-5.873201 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] main_processor_tb.
+[sst_width] 273
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@421
+main_processor_tb.uut.ALUop[1:0]
+main_processor_tb.uut.ALUsrc
+main_processor_tb.uut.Branch
+main_processor_tb.uut.MemRead
+main_processor_tb.uut.MemWrite
+main_processor_tb.uut.MemtoReg
+main_processor_tb.uut.ReadData[63:0]
+main_processor_tb.uut.RegWrite
+main_processor_tb.uut.alu_code[3:0]
+main_processor_tb.uut.alu_res[63:0]
+main_processor_tb.uut.b_logic
+main_processor_tb.uut.clk
+main_processor_tb.uut.curr_pc_add[63:0]
+main_processor_tb.uut.func3[2:0]
+main_processor_tb.uut.immediate[63:0]
+main_processor_tb.uut.instruction[31:0]
+main_processor_tb.uut.next_pc_add[63:0]
+main_processor_tb.uut.opcode[6:0]
+main_processor_tb.uut.overflow
+main_processor_tb.uut.rd1[63:0]
+main_processor_tb.uut.rd2[63:0]
+main_processor_tb.uut.rs1[4:0]
+main_processor_tb.uut.rs2[4:0]
+main_processor_tb.uut.src1[63:0]
+main_processor_tb.uut.src2[63:0]
+main_processor_tb.uut.wdata[63:0]
+main_processor_tb.uut.wreg[4:0]
+main_processor_tb.uut.zero_flag
+[pattern_trace] 1
+[pattern_trace] 0
